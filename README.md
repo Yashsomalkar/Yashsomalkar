@@ -12,6 +12,10 @@
 - 📫 How to reach me [twitter](https://twitter.com/yashs78266388)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashsomalkar&theme=chartreuse-dark)](https://github.com/Yashsomalkar/github-readme-stats&theme=chartreuse-dark)
+
+
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashsomalkar&theme=chartreuse-dark&show_icons=true)
