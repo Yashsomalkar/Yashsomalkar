@@ -1,6 +1,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Yashsomalkar&color=green)
-- 👋 Hi, I’m @Yashsomalkar
+
+
+![Header GIF](assest/header.gif)
+
+
+
 - 👀 I’m interested in CyberSecurity (CTFs) and Android 
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on Native Android 
