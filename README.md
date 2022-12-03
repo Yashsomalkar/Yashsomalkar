@@ -2,13 +2,19 @@
 ![](https://komarev.com/ghpvc/?username=Yashsomalkar&color=green)
 
 
-![Header GIF](assest/header.gif)
+<img src="assest/header.gif" width="1000" height="400"/>
 
 
 
 - 👀 I’m interested in CyberSecurity (CTFs) and Android 
+
+![hacker](assest/hacker-hacker-man.gif)![and](assest/letter-dancing-letter-dance-meme.gif)<img src="assest/android-android-os.gif" width="250"/>
+
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on Native Android 
+
+<img src="assest/love-you-android.gif" width="250" height="120"/>
+
 - 📫 How to reach me [twitter](https://twitter.com/yashs78266388)
 
 
