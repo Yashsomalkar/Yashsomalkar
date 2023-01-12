@@ -26,7 +26,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashsomalkar&theme=chartreuse-dark&show_icons=true)
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eshaanagg&theme=tokyonight" align="center" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashsomalkar&theme=chartreuse-dark" align="center" />
 </br>
 
 
