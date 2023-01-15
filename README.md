@@ -1,33 +1,26 @@
 
 ![](https://komarev.com/ghpvc/?username=Yashsomalkar&color=green)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&color=20C20E&background=F1F1F100&width=1000&height=40&lines=%F0%9F%8C%9F+Welcome+to+my+corner+of+the+internet%2C+where+code+and+creativity+collide)](https://youtu.be/dQw4w9WgXcQ)
 
 <img src="assest/header.gif" width="1000" height="400"/>
 
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&color=20C20E&background=F1F1F100&width=1000&height=40&lines=%F0%9F%91%80+I%E2%80%99m+interested+in+CyberSecurity+(CTFs)+and+Android+)](https://git.io/typing-svg)
+<br></br>
+![hacker](assest/hacker-hacker-man.gif)![and](assest/letter-dancing-letter-dance-meme.gif)<img src="assest/love-you-android.gif" width="250" height="120"/>
 
-
-- 👀 I’m interested in CyberSecurity (CTFs) and Android 
-
-![hacker](assest/hacker-hacker-man.gif)![and](assest/letter-dancing-letter-dance-meme.gif)<img src="assest/android-android-os.gif" width="250"/>
-
-- 🌱 I’m currently learning Jetpack Compose
-- 💞️ I’m looking to collaborate on Native Android 
-
-<img src="assest/love-you-android.gif" width="250" height="120"/>
 
 - 📫 How to reach me [twitter](https://twitter.com/yashs78266388)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashsomalkar&theme=chartreuse-dark)](https://github.com/Yashsomalkar/github-readme-stats&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashsomalkar&theme=chartreuse-dark)
 
 
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashsomalkar&theme=chartreuse-dark&show_icons=true)
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashsomalkar&theme=chartreuse-dark" align="center" />
-</br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashsomalkar&theme=chartreuse-dark&show_icons=true)<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashsomalkar&theme=chartreuse-dark" align="center" />
+
 
 
 [![@rudrakshacker's Holopin board](https://holopin.me/rudrakshacker)](https://holopin.io/@rudrakshacker)
