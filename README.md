@@ -9,7 +9,7 @@
 ![hacker](assest/hacker-hacker-man.gif)![and](assest/letter-dancing-letter-dance-meme.gif)<img src="assest/love-you-android.gif" width="250" height="120"/>
 
 
-- 📫 How to reach me [twitter](https://twitter.com/yashs78266388)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yash-somalkar-337957227/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashsomalkar&theme=chartreuse-dark)
