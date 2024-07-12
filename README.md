@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Yashsomalkar&color=green)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&color=20C20E&background=F1F1F100&width=1000&height=40&lines=%F0%9F%8C%9F+Welcome+to+my+corner+of+the+internet%2C+where+code+and+creativity+collide)](https://youtu.be/dQw4w9WgXcQ)
 
-<img src="assest/header.gif" width="1000" height="400"/>
+
 
 - [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&color=20C20E&background=F1F1F100&width=1000&height=40&lines=%F0%9F%91%80+I%E2%80%99m+interested+in+CyberSecurity+(CTFs)+and+Android+)](https://git.io/typing-svg)
 <br></br>
